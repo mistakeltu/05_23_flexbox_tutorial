@@ -10,7 +10,7 @@
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: (https://mistakeltu.github.io/05_23_flexbox_tutorial/)
+Site published at: https://mistakeltu.github.io/05_23_flexbox_tutorial/
 
 Tutorial: [FLEXBOX](https://internetingishard.netlify.app/html-and-css/flexbox/index.html)
 ## 🎯 Project features/goals
